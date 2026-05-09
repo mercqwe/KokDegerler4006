@@ -1,0 +1,464 @@
+[
+  {
+    "id": 1,
+    "text": "Sabır acıdır, meyvesi tatlıdır.",
+    "meaning": "Sabır zor bir iştir ancak güzel sonuçları vardır.",
+    "value": "sabir"
+  },
+  {
+    "id": 2,
+    "text": "Sabreden derviş muradına ermiş.",
+    "meaning": "Beklemesini bilen kimse sonunda amacına ulaşır.",
+    "value": "sabir"
+  },
+  {
+    "id": 3,
+    "text": "Sabrın sonu selamettir.",
+    "meaning": "Karşılaştığı güçlükleri sabırla yenmeye çalışan kimse, sonunda başarıya ulaşır.",
+    "value": "sabir"
+  },
+  {
+    "id": 4,
+    "text": "Sabırla koruk helva olur, dut yaprağı atlas.",
+    "meaning": "Sabretmesini bilen kişi olmayacak gibi görünen işlerde bile başarı kazanır.",
+    "value": "sabir"
+  },
+  {
+    "id": 5,
+    "text": "Acele işe şeytan karışır.",
+    "meaning": "Düşünüp taşınmadan ivedi olarak yapılan işten iyi sonuç alınamaz.",
+    "value": "sabir"
+  },
+  {
+    "id": 6,
+    "text": "Acele ile yürüyen yolda kalır.",
+    "meaning": "İş yaparken acele eden şaşırır, işini bitiremez.",
+    "value": "sabir"
+  },
+  {
+    "id": 7,
+    "text": "Acele ile menzil alınmaz.",
+    "meaning": "Acele etmekle daha çabuk sonuç alınır sanılmamalıdır.",
+    "value": "sabir"
+  },
+  {
+    "id": 8,
+    "text": "Ağır git ki yol alasın.",
+    "meaning": "Bir işte başarılı olmak isteyen kimse, ağır ağır ama güvenilir adımlarla yürümelidir.",
+    "value": "sabir"
+  },
+  {
+    "id": 9,
+    "text": "Geç olsun da güç olmasın.",
+    "meaning": "Çeşitli engeller yüzünden gerçekleşemeyen işlerde avunmak için söylenen bir söz.",
+    "value": "sabir"
+  },
+  {
+    "id": 10,
+    "text": "Gün doğmadan neler doğar.",
+    "meaning": "Beklenmedik bir sırada umut verici durumlarla da karşılaşma imkânı vardır.",
+    "value": "sabir"
+  },
+  {
+    "id": 11,
+    "text": "Öfke ile kalkan ziyanla (zararla) oturur.",
+    "meaning": "Öfkesine kapılarak iş gören sonunda güç duruma düşer.",
+    "value": "sabir"
+  },
+  {
+    "id": 12,
+    "text": "Keskin sirke küpüne (kabına) zarar.",
+    "meaning": "Öfkeli, sert kimsenin zararı kendisinedir.",
+    "value": "sabir"
+  },
+  {
+    "id": 13,
+    "text": "Damlaya damlaya göl olur.",
+    "meaning": "Azar azar olagelen şeyler birikerek önemli bir niceliğe ulaşacağı için küçümsenmemelidir.",
+    "value": "sabir"
+  },
+  {
+    "id": 14,
+    "text": "Demir tavında dövülür.",
+    "meaning": "Her iş zamanında ve uygun durumda yapılır.",
+    "value": "sabir"
+  },
+  {
+    "id": 15,
+    "text": "Her yokuşun bir inişi, her inişin bir yokuşu vardır.",
+    "meaning": "Hayat boyunca yükselme, düşme vb. durumlar birbirinin ardından gelebilir.",
+    "value": "sabir"
+  },
+  {
+    "id": 16,
+    "text": "Akacak kan damarda durmaz.",
+    "meaning": "Kişi, alın yazısında olanla kesinlikle karşılaşır.",
+    "value": "sabir"
+  },
+  {
+    "id": 17,
+    "text": "Akarsu çukurunu kendi kazır.",
+    "meaning": "Bir şeyi yapma isteği ve gücü bulunan kimse, uygun bir çalışma yönü ve alanı bulur.",
+    "value": "sabir"
+  },
+  {
+    "id": 18,
+    "text": "Olacakla öleceğe çare bulunmaz.",
+    "meaning": "İnsanın alnına yazılmış olan şeyler önlenemez.",
+    "value": "sabir"
+  },
+  {
+    "id": 19,
+    "text": "Bin ölçüp bir biçmeli.",
+    "meaning": "Yapılacak bir işin bütün yönleri önceden çok iyi düşünülmeli, sonra işe başlanmalıdır.",
+    "value": "sabir"
+  },
+  {
+    "id": 20,
+    "text": "Ağır yongayı yel kaldırmaz.",
+    "meaning": "Ağırbaşlı kimseye ufak tefek olaylar etki edemez, zarar veremez.",
+    "value": "sabir"
+  },
+  {
+    "id": 21,
+    "text": "Şimşek çakmadan gök gürlemez.",
+    "meaning": "1) Meydana gelmemiş bir olayın yankısı olmaz; 2) Bir gürültü kopmadan önce belirtileri görülür.",
+    "value": "sabir"
+  },
+  {
+    "id": 22,
+    "text": "Meyve veren ağaç taşlanır.",
+    "meaning": "Bilgili, hünerli, işinde başarılı olan kimseler kıskanılır, eleştirilir ve işlerini yapmaları zorlaştırılır.",
+    "value": "sabir"
+  },
+  {
+    "id": 23,
+    "text": "Çıkmadık candan umut kesilmez.",
+    "meaning": "Elden gitti sandığımız bir şeyle ilgimiz büsbütün kesilmemişse gereken çabayı harcayarak onun elimizde kalmasını sağlayabileceğimizi umabiliriz.",
+    "value": "sabir"
+  },
+  {
+    "id": 24,
+    "text": "Hamama giren terler.",
+    "meaning": "Her davranış doğal sonucuna varır; emek verip ekin eken ürün alır, gezerken bir yerde konaklayan oradan kalkarak başka bir yere gider.",
+    "value": "sabir"
+  },
+  {
+    "id": 25,
+    "text": "Eken biçer, konan göçer.",
+    "meaning": "Her davranış doğal sonucuna varır; emek verip ekin eken ürün alır, gezerken bir yerde konaklayan oradan kalkarak başka bir yere gider.",
+    "value": "sabir"
+  },
+  {
+    "id": 26,
+    "text": "Ağır basar, yeğni kalkar.",
+    "meaning": "Ağırbaşlı olan, herkesten saygı görür, ağırbaşlı olmayana ise kimse değer vermez.",
+    "value": "sabir"
+  },
+  {
+    "id": 27,
+    "text": "Gülme komşuna, gelir başına.",
+    "meaning": "Birinin başına gelen kötü bir durum senin de başına gelebilir.",
+    "value": "sabir"
+  },
+  {
+    "id": 28,
+    "text": "Emek olmadan yemek olmaz.",
+    "meaning": "Yaşayabilmek, harcayabilmek için çalışıp kazanmak gerekir.",
+    "value": "sabir"
+  },
+  {
+    "id": 29,
+    "text": "Yavaş atın tekmesi yavuz olur.",
+    "meaning": "Yumuşak huylu kimseler öfkelendiklerinde aşırı davranışlarda bulunurlar.",
+    "value": "sabir"
+  },
+  {
+    "id": 30,
+    "text": "Yazın gölge kovan, kışın karın ovar.",
+    "meaning": "Zamanını değerlendirmeyen ve geleceğini düşünmeyen kişi, çalışma olanakları kalmadığı zaman perişan olur.",
+    "value": "sabir"
+  },
+  {
+    "id": 31,
+    "text": "Yuvayı yapan dişi kuştur.",
+    "meaning": "Evin kadını anlayışlı, idareci ve tutumlu olursa ancak o zaman evde dirlik düzenlik sağlanır.",
+    "value": "sabir"
+  },
+  {
+    "id": 32,
+    "text": "Su yatağını bulur.",
+    "meaning": "Bir şeyi yapma isteği ve gücü bulunan kimse, uygun bir çalışma yönü ve alanı bulur.",
+    "value": "sabir"
+  },
+  {
+    "id": 33,
+    "text": "Kısmetinde ne varsa kaşığında o çıkar.",
+    "meaning": "Kişi ne kadar çabalarsa çabalasın alın yazısındaki şeye ulaşır.",
+    "value": "sabir"
+  },
+  {
+    "id": 34,
+    "text": "İyilik et denize at, balık bilmezse Halik bilir.",
+    "meaning": "Karşılık beklemeden iyilik yap.",
+    "value": "sabir"
+  },
+  {
+    "id": 35,
+    "text": "Yazın başı pişenin, kışın aşı pişer.",
+    "meaning": "1) Yazın güneş altında çalışan, ailesinin kışlık ihtiyacını kazanır; 2) Gençliğinde çok çalışıp varlık edinen hastalığında veya ihtiyarlığında rahat eder.",
+    "value": "sabir"
+  },
+  {
+    "id": 36,
+    "text": "Acele eden ecele gider.",
+    "meaning": "Bir işi telaşla, düşünmeden ve aşırı hızlı yapmaya çalışmanın, istenmeyen kötü sonuçlara veya tehlikeli durumlara yol açacağını ifade eder.",
+    "value": "sabir"
+  },
+  {
+    "id": 37,
+    "text": "Sabreyle işine, hayır gelsin başına.",
+    "meaning": "Bir işi yaparken acele etmez, sabrederseniz hayırlı sonuçlara varırsınız.",
+    "value": "sabir"
+  },
+  {
+    "id": 38,
+    "text": "Ağır giden yol alır.",
+    "meaning": "Bir işi yaparken acele etmenin hatalara yol açacağını, sakin, planlı ve temkinli hareket etmenin ise sonuca götüreceğini öğütler.",
+    "value": "sabir"
+  },
+  {
+    "id": 39,
+    "text": "Allah bal mumu yakana bal mumu, yağ mumu yakana yağ mumu verir.",
+    "meaning": "Tanrı insanları ayırt etmez, bol harcayana bol, az harcayana az verir anlamında kullanılan bir söz.",
+    "value": "sabir"
+  },
+  {
+    "id": 40,
+    "text": "Bağa bak, üzüm olsun, yemeye yüzün olsun.",
+    "meaning": "Kişi, karşılık beklediği işten istediğini alabilmek için gereken harcamaları yapmalıdır anlamında kullanılan bir söz.",
+    "value": "sabir"
+  },
+  {
+    "id": 41,
+    "text": "Allah sabırlı kulunu sever.",
+    "meaning": "Tanrı sabırlı kulunu sevdiği için sabırlı olmaya daha çok dikkat etmeliyiz anlamında kullanılan bir söz.",
+    "value": "sabir"
+  },
+  {
+    "id": 42,
+    "text": "Aceleci sinek süte düşer.",
+    "meaning": "Bir iş için acele edilirse, hemen olsun istenirse, düşünüp taşınmadan hareket edilirse işler sekteye uğrar.",
+    "value": "sabir"
+  },
+  {
+    "id": 43,
+    "text": "Komşu komşunun külüne (veya tütününe) muhtaçtır.",
+    "meaning": "Komşular en küçük şey için bile birbirlerine muhtaçtırlar anlamında kullanılan bir söz.",
+    "value": "sabir"
+  },
+  {
+    "id": 44,
+    "text": "Ne ekersen onu biçersin.",
+    "meaning": "Nasıl davranırsan öyle karşılık görürsün anlamında kullanılan bir söz.",
+    "value": "sabir"
+  },
+  {
+    "id": 45,
+    "text": "Acele yürüyen yolda kalır.",
+    "meaning": "İş yaparken acele eden şaşırır, işini bitiremez anlamında kullanılan bir söz.",
+    "value": "sabir"
+  },
+  {
+    "id": 46,
+    "text": "Allah dağına göre kar verir.",
+    "meaning": "Tanrı herkese sabredebileceği ölçüde sıkıntı verir anlamında kullanılan bir söz.",
+    "value": "sabir"
+  },
+  {
+    "id": 47,
+    "text": "Zahmetsiz rahmet olmaz.",
+    "meaning": "Sıkıntı, güçlük çekmeden iyi ve güzel işler başarılamaz anlamında kullanılan bir söz.",
+    "value": "sabir"
+  },
+  {
+    "id": 48,
+    "text": "Temiz iş altı ayda çıkar.",
+    "meaning": "Doğru dürüst yapılması istenen iş uzun zaman ister anlamında kullanılan bir söz.",
+    "value": "sabir"
+  },
+  {
+    "id": 49,
+    "text": "Sabah ola, hayrola.",
+    "meaning": "Sabah olsun, o vakte kadar iş belki düzelir anlamında kullanılan bir söz.",
+    "value": "sabir"
+  },
+  {
+    "id": 50,
+    "text": "Her çok azdan olur.",
+    "meaning": "Çoğu elde etmek için azları biriktirmek gerekir anlamında kullanılan bir söz.",
+    "value": "sabir"
+  },
+  {
+    "id": 51,
+    "text": "Ekmeden biçilmez.",
+    "meaning": "Emek vermeden beklenen bir sonuca erişilmez anlamında kullanılan bir söz.",
+    "value": "sabir"
+  },
+  {
+    "id": 52,
+    "text": "Dut kurusu ile yâr sevilmez.",
+    "meaning": "Ancak büyük fedakârlıklarla elde edilebilecek güzel bir şey, fedakârlık yapılmadan elde edilemez anlamında kullanılan bir söz.",
+    "value": "sabir"
+  },
+  {
+    "id": 53,
+    "text": "Dert, çekene göredir.",
+    "meaning": "Bir derdin ağırlığı, hafifliği ona uğrayan kimsenin etkilenme derecesiyle ölçülür anlamında kullanılan bir söz.",
+    "value": "sabir"
+  },
+  {
+    "id": 54,
+    "text": "Değirmene gelen nöbet bekler.",
+    "meaning": "Bir şeyden birçok kimse yararlanacaksa herkes geliş sırasıyla ve sabrıyla işini görmek üzere beklemelidir anlamında kullanılan bir söz.",
+    "value": "sabir"
+  },
+  {
+    "id": 55,
+    "text": "Dağ ne kadar yüce olsa yol üstünden aşar.",
+    "meaning": "Yenilmesi imkânsız gibi görünen zorlukların da üstesinden gelinir anlamında kullanılan bir söz.",
+    "value": "sabir"
+  },
+  {
+    "id": 56,
+    "text": "Her şeyin vakti var, horoz bile vaktinde öter.",
+    "meaning": "Her şey zamanında yapılmalıdır anlamında kullanılan bir söz.",
+    "value": "sabir"
+  },
+  {
+    "id": 57,
+    "text": "Çiğnemeden yutulmaz.",
+    "meaning": "En kolay bir iş dahi emek (sabır) gerektirir anlamında kullanılan bir söz.",
+    "value": "sabir"
+  },
+  {
+    "id": 58,
+    "text": "Cefayı çekmeyen sefanın kadrini bilemez.",
+    "meaning": "Sıkıntı çekmemiş olanlar, eriştikleri rahatlığın ve mutluluğun değerini bilemezler anlamında kullanılan bir söz.",
+    "value": "sabir"
+  },
+  {
+    "id": 59,
+    "text": "Ayağını yorganına göre uzat.",
+    "meaning": "Giderini mutlaka gelirine uydurmalısın anlamında kullanılan bir söz.",
+    "value": "sabir"
+  },
+  {
+    "id": 60,
+    "text": "Ağaç yaşken eğilir.",
+    "meaning": "İnsanlar küçük yaşta kolay eğitilir anlamında kullanılan bir söz.",
+    "value": "sabir"
+  },
+  {
+    "id": 61,
+    "text": "Ak akçe kara gün içindir.",
+    "meaning": "Çalışarak kazandığımız para, dar zamanımızda bizi sıkıntıdan kurtarır anlamında kullanılan bir söz.",
+    "value": "sabir"
+  },
+  {
+    "id": 62,
+    "text": "Bakarsan bağ olur, bakmazsan dağ olur.",
+    "meaning": "Bakılıp onarılan şeylerden yararlanılır, bakımsız bırakılanlardan bir yarar elde edilemez anlamında kullanılan bir söz.",
+    "value": "sabir"
+  },
+  {
+    "id": 63,
+    "text": "Boynuz kulağı geçmek.",
+    "meaning": "Bir konuda daha sonra yetişenler yetenek ve başarı bakımından eskileri geçmek.",
+    "value": "sabir"
+  },
+  {
+    "id": 64,
+    "text": "Gülü seven dikenine katlanır.",
+    "meaning": "İnsan sevdiği kimse veya sevdiği iş yüzünden gelecek sıkıntılara katlanır anlamında kullanılan bir söz.",
+    "value": "sabir"
+  },
+  {
+    "id": 65,
+    "text": "Ağır kazan geç kaynar.",
+    "meaning": "Tembel olan işi geç yapar anlamında kullanılan bir söz.",
+    "value": "sabir"
+  },
+  {
+    "id": 66,
+    "text": "Sakla samanı gelir zamanı.",
+    "meaning": "Gereksiz görülen şey ileride gerekli olabilir anlamında kullanılan bir söz.",
+    "value": "sabir"
+  },
+  {
+    "id": 67,
+    "text": "Yersen kap açık, yemezsen kapı açık.",
+    "meaning": "Sabırlı ol, katlan ve kararını ona göre ver.",
+    "value": "sabir"
+  },
+  {
+    "id": 68,
+    "text": "Ağır taş yerinden oynamaz.",
+    "meaning": "Ağırbaşlı insan kimsenin oyuncağı olmaz, onu yıpratmaya kimsenin gücü yetmez.",
+    "value": "sabir"
+  },
+  {
+    "id": 69,
+    "text": "Boş çuval ayakta (dik) durmaz.",
+    "meaning": "1) Karnı doymayan kimse çalışamaz; 2) Bilgisiz ve yeteneksiz bir kişi, kendisine verilen görevlerde tutunamaz.",
+    "value": "sabir"
+  },
+  {
+    "id": 70,
+    "text": "Çivi çiviyi söker.",
+    "meaning": "Güçlü bir şey, kendisi güçlü olan başka bir şeyle veya durumla etkisiz bırakılır.",
+    "value": "sabir"
+  },
+  {
+    "id": 71,
+    "text": "Er olan ekmeğini taştan çıkarır.",
+    "meaning": "Azimli kimse geçim yolunu bulmak için en güç işlerle bile uğraşmaktan yılmaz.",
+    "value": "sabir"
+  },
+  {
+    "id": 72,
+    "text": "Terazi var, tartı var, her şeyin bir vakti var.",
+    "meaning": "Her şeyin bir ölçüsü ve zamanı vardır.",
+    "value": "sabir"
+  },
+  {
+    "id": 73,
+    "text": "İşleyen demir pas tutmaz (ışıldar).",
+    "meaning": "Tembel tembel oturan kimse hantallaşır, çalışan kimse gittikçe açılır, daha yararlı işler yapar.",
+    "value": "sabir"
+  },
+  {
+    "id": 74,
+    "text": "Tatlı dil yılanı deliğinden çıkarır.",
+    "meaning": "Gönül alıcı, okşayıcı sözlerle karşımızdakinin inadı yenilebilir.",
+    "value": "sabir"
+  },
+  {
+    "id": 75,
+    "text": "Tencere yuvarlanmış, kapağını bulmuş.",
+    "meaning": "Hoşa gitmeyen herhangi bir nitelik yönünden birbiriyle benzeşen iki kişi bir araya gelmiş.",
+    "value": "sabir"
+  },
+  {
+    "id": 76,
+    "text": "Az tamah çok ziyan getirir.",
+    "meaning": "Hırslı ve pinti insan her zaman zararlı çıkar.",
+    "value": "sabir"
+  },
+  {
+    "id": 77,
+    "text": "Yılanın başı küçükken ezilir.",
+    "meaning": "Büyüyeceği belli olan her tehlike daha en başta önlenmeli, düşman güçlenip büyük zarar verecek duruma gelmeden tedbir alınmalıdır.",
+    "value": "sabir"
+  }
+]

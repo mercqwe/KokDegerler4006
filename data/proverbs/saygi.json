@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "text": "Su küçüğün, söz (veya sofra veya yemek) büyüğün.",
+    "meaning": "Büyüklerin sayılması, küçüklerin korunması gerektiğini anlatan bir söz.",
+    "value": "saygi"
+  },
+  {
+    "id": 2,
+    "text": "Büyük lokma ye büyük söz söyleme.",
+    "meaning": "Başaramayacağın, sonuçlandıramayacağın bir konuda kesin sözler söyleme anlamında kullanılan bir söz.",
+    "value": "saygi"
+  },
+  {
+    "id": 3,
+    "text": "Söz var, iş bitirir; söz var, baş yitirir.",
+    "meaning": "Sözün insanlar üzerinde etkisi büyüktür; yerinde söylenen sözler işlerin yoluna girmesini sağlar, ölçüsüz ve sert söylenen sözler ise karşıdakini öfkelendirir, söyleyenin öldürülmesine bile yol açabilir anlamında kullanılan bir söz.",
+    "value": "saygi"
+  },
+  {
+    "id": 4,
+    "text": "Tatlı dil yılanı deliğinden çıkarır.",
+    "meaning": "Gönül alıcı, okşayıcı sözlerle karşımızdakinin inadı yenilebilir anlamında kullanılan bir söz.",
+    "value": "saygi"
+  },
+  {
+    "id": 5,
+    "text": "Söz gümüşse sükut altındır.",
+    "meaning": "Susmak bazen konuşmaktan daha iyi sonuç verir anlamında kullanılan bir söz.",
+    "value": "saygi"
+  },
+  {
+    "id": 6,
+    "text": "Adam olana bir söz yeter.",
+    "meaning": "Anlayışlı olan kimse için bir şeyin bir kez söylenmesi yeterli olur anlamında kullanılan bir söz.",
+    "value": "saygi"
+  },
+  {
+    "id": 7,
+    "text": "Herkes evinde ağadır.",
+    "meaning": "Herkesin kendi evinde, kendi çevresinde sayginlığı vardır anlamında kullanılan bir söz.",
+    "value": "saygi"
+  },
+  {
+    "id": 8,
+    "text": "Ağır basar, yeğni kalkar.",
+    "meaning": "Ağırbaşlı olan, herkesten saygi görür, ağırbaşlı olmayana ise kimse değer vermez anlamında kullanılan bir söz.",
+    "value": "saygi"
+  },
+  {
+    "id": 9,
+    "text": "Arsızın yüzüne tükürmüşler, \"yağmur yağıyor\" demiş.",
+    "meaning": "Arsız ne kadar ağır hakaret görse de aldırmaz, pişkinliğe vurur anlamında kullanılan bir söz.",
+    "value": "saygi"
+  },
+  {
+    "id": 10,
+    "text": "Adamın iyisi işbaşında (veya alışverişte) belli olur.",
+    "meaning": "Bir kişinin iyi ve becerikli olduğu yaptığı işlerden anlaşılır anlamında kullanılan bir söz.",
+    "value": "saygi"
+  },
+  {
+    "id": 11,
+    "text": "Edep yahu.",
+    "meaning": "Kötü davranışlarda bulunanlara utan, edebini takın anlamında kullanılan bir söz.",
+    "value": "saygi"
+  },
+  {
+    "id": 12,
+    "text": "İnsan sözünden, hayvan yularından tutulur.",
+    "meaning": "Yularından tutulan hayvan başka yöne sapamadığı gibi insan da söylediği sözün dışına çıkamaz anlamında kullanılan bir söz.",
+    "value": "saygi"
+  },
+  {
+    "id": 13,
+    "text": "Edebi edepsizden öğren.",
+    "meaning": "Edepsizin yaptığı işlerin yapılmaması gereken işler olduğunu düşünmekle doğru yolu bulmuş, böylece edebi edepsizden öğrenmiş olursun anlamında kullanılan bir söz.",
+    "value": "saygi"
+  },
+  {
+    "id": 14,
+    "text": "İnsanın eti yenmez, derisi giyilmez, tatlı dilinden başka nesi var?",
+    "meaning": "İnsanın kendisini ancak tatlı diliyle sevdirebilir anlamında kullanılan bir söz.",
+    "value": "saygi"
+  }
+]

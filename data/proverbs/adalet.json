@@ -1,0 +1,344 @@
+[
+  {
+    "id": 1,
+    "text": "Eğri oturup doğru konuşalım. (TDK)",
+    "meaning": "Birisine karşı tutumumuz ne olursa olsun doğruyu söylemeliyiz.",
+    "value": "adalet"
+  },
+  {
+    "id": 2,
+    "text": "Yalancının mumu yatsıya kadar yanar. (TDK)",
+    "meaning": "Söylenen söz yalansa durum çok geçmeden anlaşılır.",
+    "value": "adalet"
+  },
+  {
+    "id": 3,
+    "text": "Doğru söz acıdır. (TDK)",
+    "meaning": "Eksikleri, yanlışları, yolsuzlukları bütün çıplaklığıyla ortaya koyan ve eleştiren söz, bu işi yapanlara acı gelir.",
+    "value": "adalet"
+  },
+  {
+    "id": 4,
+    "text": "Emanete hıyanet olmaz. (TDK)",
+    "meaning": "Emanet olarak bırakılan şey titizlikle korunmalıdır.",
+    "value": "adalet"
+  },
+  {
+    "id": 5,
+    "text": "Minareyi çalan kılıfını hazırlar. (TDK)",
+    "meaning": "Kolay kolay gizlenemeyecek kadar büyük bir yolsuzluğu yapan kimse, sorumluluktan kurtulma yollarını önceden düşünür.",
+    "value": "adalet"
+  },
+  {
+    "id": 6,
+    "text": "Alma mazlumun ahını çıkar aheste aheste. (TDK)",
+    "meaning": "Kimseye eziyet edip ahını alma, sonra yaptığın kötülüklerin cezasını ömür boyu çekersin.",
+    "value": "adalet"
+  },
+  {
+    "id": 7,
+    "text": "Yavuz hırsız ev sahibini bastırır. (TDK)",
+    "meaning": "Biri, suçunu zarar verdiği kimseye yüklediğinde söylenen bir söz.",
+    "value": "adalet"
+  },
+  {
+    "id": 8,
+    "text": "Besle kargayı oysun gözünü. (TDK)",
+    "meaning": "Nankörlük edenler için söylenen bir söz.",
+    "value": "adalet"
+  },
+  {
+    "id": 9,
+    "text": "Emanet eşeğin yuları gevşek olur. (TDK)",
+    "meaning": "Bir kimseye emanet edilen şeyin o kimse tarafından iyi korunmadığı her zaman görülen olaylardandır.",
+    "value": "adalet"
+  },
+  {
+    "id": 10,
+    "text": "Keskin sirke küpüne zarar. (TDK)",
+    "meaning": "Öfkeli, sert kimsenin zararı kendisinedir.",
+    "value": "adalet"
+  },
+  {
+    "id": 11,
+    "text": "Öfke ile kalkan zararla oturur. (TDK)",
+    "meaning": "Öfkesine kapılarak iş gören sonunda güç duruma düşer.",
+    "value": "adalet"
+  },
+  {
+    "id": 12,
+    "text": "Kendi düşen ağlamaz. (TDK)",
+    "meaning": "Kendi zararına kendisi neden olanın yakınmaya hakkı olmaz.",
+    "value": "adalet"
+  },
+  {
+    "id": 13,
+    "text": "Haramın temeli olmaz. (TDK)",
+    "meaning": "Haram kazanç, bir işe yaramadan telef olur gider.",
+    "value": "adalet"
+  },
+  {
+    "id": 14,
+    "text": "El elin eşeğini türkü çağırarak arar. (TDK)",
+    "meaning": "İnsanın kendi sıkıntı ve sorunlarına başkaları gereken önemi vermez, gerektiği kadar ilgilenmez.",
+    "value": "adalet"
+  },
+  {
+    "id": 15,
+    "text": "El elde kalmaz dil dilden kalmaz. (TDK)",
+    "meaning": "Bir kişi başkasına vurursa o da ona vurur, başkasına kötü söz söylerse diğeri de kendisine kötü söz söyler.",
+    "value": "adalet"
+  },
+  {
+    "id": 16,
+    "text": "Ava giden avlanır. (TDK)",
+    "meaning": "Çıkarını başkalarına zarar vermekte arayan kimse, o zarara kendisi uğrar.",
+    "value": "adalet"
+  },
+  {
+    "id": 17,
+    "text": "Gün doğmadan neler doğar. (TDK)",
+    "meaning": "Beklenmedik bir sırada umut verici durumlarla da karşılaşma imkânı vardır.",
+    "value": "adalet"
+  },
+  {
+    "id": 18,
+    "text": "Korkulu rüya görmektense uyanık durmak evladır. (TDK)",
+    "meaning": "Tehlikeli bir işe girişmektense o işin sağlayacağı kazançtan vazgeçmek daha iyidir.",
+    "value": "adalet"
+  },
+  {
+    "id": 19,
+    "text": "Haklı haksızı Bağdat'tan çevirir. (TDK)",
+    "meaning": "Doğru söz, yanlış yolda çok ilerlemiş kişiyi bile yola getirir.",
+    "value": "adalet"
+  },
+  {
+    "id": 20,
+    "text": "Ne ekersen onu biçersin. (TDK)",
+    "meaning": "Nasıl davranırsan öyle karşılık görürsün.",
+    "value": "adalet"
+  },
+  {
+    "id": 21,
+    "text": "İyilik eden iyilik bulur. (TDK)",
+    "meaning": "İyilik eden kimseye zamanı geldiğinde başkaları da iyilik ederler.",
+    "value": "adalet"
+  },
+  {
+    "id": 22,
+    "text": "Kaza geliyorum demez. (TDK)",
+    "meaning": "Kaza, beklenmedik zamanda, ansızın olur.",
+    "value": "adalet"
+  },
+  {
+    "id": 23,
+    "text": "Suçlunun korkusu adaletten olur. (TDK)",
+    "meaning": "Suç işleyen veya haksızlık yapan bir kişinin, hak ettiği cezayı alacağı yargı mekanizmasından korktuğunu ifade eder.",
+    "value": "adalet"
+  },
+  {
+    "id": 24,
+    "text": "Her kuşun eti yenmez. (TDK)",
+    "meaning": "Herkes zorbalığa boyun eğmez, buna karşı gelecekler de çıkar.",
+    "value": "adalet"
+  },
+  {
+    "id": 25,
+    "text": "Doğru söyleyeni dokuz köyden kovarlar.",
+    "meaning": "Doğru olmakla birlikte başkalarının işine gelmeyen sözleri söyleyenlerin sevilmediğini anlatan bir söz.",
+    "value": "adalet"
+  },
+  {
+    "id": 26,
+    "text": "Doğru söz yemin istemez.",
+    "meaning": "Sözün doğruluğunda kuşku yoksa yemine gerek yoktur.",
+    "value": "adalet"
+  },
+  {
+    "id": 27,
+    "text": "Doğrunun yardımcısı Allah'tır.",
+    "meaning": "İşlerinde doğruluktan ayrılmayan kişiye Tanrı her zaman yardım eder.",
+    "value": "adalet"
+  },
+  {
+    "id": 28,
+    "text": "Eden bulur, inleyen ölür.",
+    "meaning": "Nasıl davranırsan öyle karşılık görürsün.",
+    "value": "adalet"
+  },
+  {
+    "id": 29,
+    "text": "Hak yerini bulur (yerde kalmaz).",
+    "meaning": "Haksızlık er geç ortaya çıkar.",
+    "value": "adalet"
+  },
+  {
+    "id": 30,
+    "text": "Doğru söz acıdır.",
+    "meaning": "Eksikleri, yanlışları, yolsuzlukları bütün çıplaklığıyla ortaya koyan ve eleştiren söz, bu işi yapanlara acı gelir.",
+    "value": "adalet"
+  },
+  {
+    "id": 31,
+    "text": "Her koyun kendi bacağından asılır.",
+    "meaning": "Herkes kendi davranışlarından sorumludur, herkes hatasının cezasını kendisi çeker.",
+    "value": "adalet"
+  },
+  {
+    "id": 32,
+    "text": "Hak deyince akan sular durur.",
+    "meaning": "Bir anlaşmazlıkta adalet, tarafsızlık, hakkaniyet devreye girdiğinde kimsenin söyleyecek sözü kalmaz.",
+    "value": "adalet"
+  },
+  {
+    "id": 33,
+    "text": "İyilik eden iyilik bulur.",
+    "meaning": "İyilik eden kimseye zamanı geldiğinde başkaları da iyilik ederler.",
+    "value": "adalet"
+  },
+  {
+    "id": 34,
+    "text": "Mazlumun ahı, indirir şahı.",
+    "meaning": "Zulüm gören kimsenin bedduası tutar.",
+    "value": "adalet"
+  },
+  {
+    "id": 35,
+    "text": "Ne ekersen onu biçersin.",
+    "meaning": "Nasıl davranırsan öyle karşılık görürsün.",
+    "value": "adalet"
+  },
+  {
+    "id": 36,
+    "text": "Ne doğrarsan aşına, o çıkar kaşığına.",
+    "meaning": "Kişi, kendisi için önceden yaptığı hazırlıkların verimini ileride alır.",
+    "value": "adalet"
+  },
+  {
+    "id": 37,
+    "text": "Rüşvet kapıdan girince insaf (iman) bacadan (pencereden) çıkar.",
+    "meaning": "İşini herkese eşit davranarak yapmak zorunda olan bir görevli, kendisine çıkar sağlayan kimselere ayrıcalık tanıyorsa o kişi hak, adalet, insaf gibi duygulardan yoksun demektir.",
+    "value": "adalet"
+  },
+  {
+    "id": 38,
+    "text": "Rüzgâr eken fırtına biçer.",
+    "meaning": "Kötülük yapan daha büyük bir kötülükle karşılaşır ve sonunda en büyük zarara kendisi uğrar.",
+    "value": "adalet"
+  },
+  {
+    "id": 39,
+    "text": "Minare de doğru ama içi eğri.",
+    "meaning": "Doğru görünen nice kişiler vardır ki içyüzlerini bilenlerden nasıl düzenbaz oldukları öğrenilir.",
+    "value": "adalet"
+  },
+  {
+    "id": 40,
+    "text": "Eğri cetvelden doğru çizgi çıkmaz.",
+    "meaning": "Temeli yanlış, bozuk veya haksız olan bir işleyişten, sistemden veya karakterden düzgün, adil ve hayırlı bir sonuç beklenemeyeceğini ifade eder.",
+    "value": "adalet"
+  },
+  {
+    "id": 41,
+    "text": "Kul hakkı yiyenin yakası kurtulmaz.",
+    "meaning": "Hak sahibinin rızası alınmadıkça günahın affedilmeyeceği esasına dayanır.",
+    "value": "adalet"
+  },
+  {
+    "id": 42,
+    "text": "Haklı haksızdan güçlüdür.",
+    "meaning": "Temel prensip olarak haklılığın getirdiği iç huzur, doğruluk ve erdemin daha kalıcı ve üstün bir güç olduğu savunulur.",
+    "value": "adalet"
+  },
+  {
+    "id": 43,
+    "text": "Adalet gecikir ama şaşmaz.",
+    "meaning": "Hakkın, hukukun veya ilahi adaletin er ya da geç tecelli edeceğini, haksızlığın cezasız kalmayacağını ifade eder.",
+    "value": "adalet"
+  },
+  {
+    "id": 44,
+    "text": "Adaletin kestiği parmak acımaz.",
+    "meaning": "Kanunların ve adaletin verdiği karara, kişisel olarak zarar görülse bile saygı duyulur ve buna itiraz edilmez.",
+    "value": "adalet"
+  },
+  {
+    "id": 45,
+    "text": "Haksızlık karşısında susan dilsiz şeytandır.",
+    "meaning": "Bir haksızlık görüldüğünde buna tepki vermemenin kötülüğünü vurgular.",
+    "value": "adalet"
+  },
+  {
+    "id": 46,
+    "text": "Zulüm ile abad olanın sonu berbat olur.",
+    "meaning": "Başkalarına eziyet ederek, hak yiyerek zenginleşen veya güçlenenlerin sonunun kötü olacağını belirtir.",
+    "value": "adalet"
+  },
+  {
+    "id": 47,
+    "text": "Doğruluk dost kapısıdır.",
+    "meaning": "Her zaman dürüst ve adil olan kişi, herkes tarafından sevilir ve güvenilir bir liman olarak görülür.",
+    "value": "adalet"
+  },
+  {
+    "id": 48,
+    "text": "Adaletsiz bir hükümdar, susuz bir nehre benzer.",
+    "meaning": "Adalet dağıtması gereken bir yöneticinin bu görevi yapmadığında halkına zarar getireceğini anlatır.",
+    "value": "adalet"
+  },
+  {
+    "id": 49,
+    "text": "Adalet ile zulüm aynı yerde durmaz.",
+    "meaning": "Adaletin olduğu bir ortamda haksızlık, sömürü ve eziyetin barınamayacağını ifade eder.",
+    "value": "adalet"
+  },
+  {
+    "id": 50,
+    "text": "Adalet olmayınca insan her derde düşer.",
+    "meaning": "Adaletin sağlanmadığı bir ortamda huzurun, düzenin ve güvenin kalmayacağını; haksızlıkların ve kaosun baş göstereceğini ifade eder.",
+    "value": "adalet"
+  },
+  {
+    "id": 51,
+    "text": "Adalet erdemlerin kraliçesidir.",
+    "meaning": "Adaletin tüm ahlaki değerler arasında en üstün, temel ve dengeleyici erdem olduğunu ifade eder.",
+    "value": "adalet"
+  },
+  {
+    "id": 52,
+    "text": "Adaletsiz memleket güneşsiz dünyaya benzer.",
+    "meaning": "Adaletin bir toplum için hayat kaynağı olduğunu, devleti ayakta tutup güven sağladığını vurgular.",
+    "value": "adalet"
+  },
+  {
+    "id": 53,
+    "text": "Kurt kışı geçirir ama yediği ayazı unutmaz.",
+    "meaning": "Haksızlığa uğrayan kişi, o zor günleri atlatsa bile kendisine yapılan adaletsizliği asla unutmaz.",
+    "value": "adalet"
+  },
+  {
+    "id": 54,
+    "text": "Eğri bakandan doğru iş beklenmez.",
+    "meaning": "Karakteri ve düşünceleri adaletten sapmış olan birinin, dürüst bir iş yapması mümkün değildir.",
+    "value": "adalet"
+  },
+  {
+    "id": 55,
+    "text": "Ne doğrarsan aşına, o çıkar kaşığına.",
+    "meaning": "Kişinin hayatta emek verdiği veya başkalarına yaşattığı şeylerin er ya da geç kendi karşısına çıkacağını ifade eder.",
+    "value": "adalet"
+  },
+  {
+    "id": 56,
+    "text": "Doğru söz katarından belli olur.",
+    "meaning": "Bir ifadenin doğru ve haklı olup olmadığı, diğer olaylarla olan tutarlılığından anlaşılır.",
+    "value": "adalet"
+  },
+  {
+    "id": 57,
+    "text": "Haksızın hakkından haklı gelir.",
+    "meaning": "Ne kadar güçlü olursa olsun, haksız olan kişi gerçek adalet ve hak önünde yenilmeye mahkumdur.",
+    "value": "adalet"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "text": "Bir elin nesi var, iki elin sesi var. (TDK)",
+    "meaning": "Başarıya ulaşmak için birlik olmak gerek anlamında kullanılan bir söz.",
+    "value": "yardimseverlik"
+  },
+  {
+    "id": 2,
+    "text": "Komşu komşunun külüne muhtaçtır. (TDK)",
+    "meaning": "Komşular en küçük şey için bile birbirlerine muhtaçtırlar anlamında kullanılan bir söz.",
+    "value": "yardimseverlik"
+  },
+  {
+    "id": 3,
+    "text": "Dost kara günde belli olur. (TDK)",
+    "meaning": "Gerçek dost üzüntülü, sıkıntılı günlerde insanı yalnız bırakmaz anlamında kullanılan bir söz.",
+    "value": "yardimseverlik"
+  },
+  {
+    "id": 4,
+    "text": "El elden üstündür. (TDK)",
+    "meaning": "Bir kimse, kendisinden üstün bir başkasının da olabileceğini bilmelidir anlamında kullanılan bir söz.",
+    "value": "yardimseverlik"
+  },
+  {
+    "id": 5,
+    "text": "İyilik eden iyilik bulur. (TDK)",
+    "meaning": "İyilik eden kimseye zamanı geldiğinde başkaları da iyilik ederler anlamında kullanılan bir söz.",
+    "value": "yardimseverlik"
+  },
+  {
+    "id": 6,
+    "text": "Aç aman bilmez, çocuk zaman bilmez. (TDK)",
+    "meaning": "Aç hiçbir mazeretle susturulamaz, çocuk da istediği şeyi hemen elde etmek ister anlamında kullanılan bir söz.",
+    "value": "yardimseverlik"
+  },
+  {
+    "id": 7,
+    "text": "Tok açın hâlinden anlamaz. (TDK)",
+    "meaning": "Varlıklı olan, yoksulun ne denli sıkıntı içinde bulunduğunu bilmez anlamında kullanılan bir söz.",
+    "value": "yardimseverlik"
+  },
+  {
+    "id": 8,
+    "text": "Birlikten kuvvet doğar. (TDK)",
+    "meaning": "Toplu veya beraber davranmak daha büyük güç sağlar anlamında kullanılan bir söz.",
+    "value": "yardimseverlik"
+  },
+  {
+    "id": 9,
+    "text": "Bir el bir eli yıkar, iki el bir yüzü yıkar. (TDK)",
+    "meaning": "Bazı durumlarda yardımlaşmadan iş yapılamayacağını anlatan bir söz.",
+    "value": "yardimseverlik"
+  },
+  {
+    "id": 10,
+    "text": "Bir elin sesi çıkmaz. (TDK)",
+    "meaning": "Yardımlaşarak işler daha kolay başarılır anlamında kullanılan bir söz.",
+    "value": "yardimseverlik"
+  },
+  {
+    "id": 11,
+    "text": "İyiliğe iyilik her kişinin kârı, kötülüğe iyilik er kişinin kârı. (TDK)",
+    "meaning": "İyiliğe karşı iyiliği herkes yapabilir, önemli olan kötülüğe karşı iyilik yapabilmektir anlamında kullanılan bir söz.",
+    "value": "yardimseverlik"
+  },
+  {
+    "id": 12,
+    "text": "Dost, dostun eyerlenmiş atıdır. (TDK)",
+    "meaning": "Gerçek dost, arkadaşının sıkışık zamanında yardımına koşmaya hazır durumdadır anlamında kullanılan bir söz.",
+    "value": "yardimseverlik"
+  },
+  {
+    "id": 13,
+    "text": "Komşuda pişer, bize de düşer. (TDK)",
+    "meaning": "İnsanların, çevresindekilerin kazancından yararlanma umudunu anlatan bir söz.",
+    "value": "yardimseverlik"
+  },
+  {
+    "id": 14,
+    "text": "Komşu ekmeği komşuya borçtur. (TDK)",
+    "meaning": "Komşunuz size bir ikramda bulunur, bir şey armağan ederse siz de ona ikramda bulunmalı, armağan vermelisiniz anlamında kullanılan bir söz.",
+    "value": "yardimseverlik"
+  },
+  {
+    "id": 15,
+    "text": "Dost ağlatır, düşman güldürür. (TDK)",
+    "meaning": "Dost olan kimsenin söylediği söz, acı da olsa insanın iyiliği içindir anlamında kullanılan bir söz.",
+    "value": "yardimseverlik"
+  },
+  {
+    "id": 16,
+    "text": "Nerede hareket, orada bereket. (TDK)",
+    "meaning": "Hareket olan yerde bolluk olur anlamında kullanılan bir söz.",
+    "value": "yardimseverlik"
+  },
+  {
+    "id": 17,
+    "text": "Ev alma, komşu al. (TDK)",
+    "meaning": "Komşuluk ilişkileri, iyi komşuya sahip olma çok çok önemlidir anlamında kullanılan bir söz.",
+    "value": "yardimseverlik"
+  },
+  {
+    "id": 18,
+    "text": "Az veren candan, çok veren maldan. (TDK)",
+    "meaning": "Varlıklı olmayan kimsenin yardım veya armağan olarak az şey vermesi büyük fedakârlıktır, varlıklı kimsenin vereceği armağan ve yardımlar fedakârlık sayılmaz anlamında kullanılan bir söz.",
+    "value": "yardimseverlik"
+  },
+  {
+    "id": 19,
+    "text": "Dost başa, düşman ayağa bakar. (TDK)",
+    "meaning": "İyi bir görüntü verebilmek için her zaman temiz giyinip kuşanmak gereklidir anlamında kullanılan bir söz.",
+    "value": "yardimseverlik"
+  },
+  {
+    "id": 20,
+    "text": "Herkesin ettiği yoluna gelir. (TDK)",
+    "meaning": "Bir kimse başkasına ne yaparsa kendisi de aynı şeyle karşılaşır anlamında kullanılan bir söz.",
+    "value": "yardimseverlik"
+  },
+  {
+    "id": 21,
+    "text": "İyilik yap denize at, balık bilmezse Hâlik bilir.",
+    "meaning": "İyilik karşılık beklemeden yapılmalıdır.",
+    "value": "yardimseverlik"
+  },
+  {
+    "id": 22,
+    "text": "İyilik eden kendine eder.",
+    "meaning": "Yardımın faydası en çok yapana olur.",
+    "value": "yardimseverlik"
+  },
+  {
+    "id": 23,
+    "text": "El birliği ile dağ yerinden oynar.",
+    "meaning": "Birlikte her iş başarılabilir.",
+    "value": "yardimseverlik"
+  },
+  {
+    "id": 24,
+    "text": "Komşu hakkı Tanrı hakkıdır.",
+    "meaning": "Komşuya yardım etmek çok önemlidir.",
+    "value": "yardimseverlik"
+  },
+  {
+    "id": 25,
+    "text": "İyilik yap, başına kakma.",
+    "meaning": "Yardım gösteriş için yapılmaz.",
+    "value": "yardimseverlik"
+  },
+  {
+    "id": 26,
+    "text": "Birlikte ağlayan birlikte güler.",
+    "meaning": "Yardımlaşanlar her şeyi paylaşır.",
+    "value": "yardimseverlik"
+  },
+  {
+    "id": 27,
+    "text": "Yardım eden unutulmaz.",
+    "meaning": "İyilik yapan her zaman hatırlanır.",
+    "value": "yardimseverlik"
+  },
+  {
+    "id": 28,
+    "text": "Komşu kapısı kapalı olmaz.",
+    "meaning": "Komşular birbirine destek olur.",
+    "value": "yardimseverlik"
+  },
+  {
+    "id": 29,
+    "text": "İyilikten zarar gelmez.",
+    "meaning": "İyilik her zaman fayda sağlar.",
+    "value": "yardimseverlik"
+  },
+  {
+    "id": 30,
+    "text": "Paylaşmak gönlü zenginleştirir.",
+    "meaning": "Yardım etmek manevi değer kazandırır.",
+    "value": "yardimseverlik"
+  },
+  {
+    "id": 31,
+    "text": "Dost eli dara günde uzanır.",
+    "meaning": "Yardım zor zamanda yapılır.",
+    "value": "yardimseverlik"
+  },
+  {
+    "id": 32,
+    "text": "Birlik olan yıkılmaz.",
+    "meaning": "Yardımlaşan topluluk güçlüdür.",
+    "value": "yardimseverlik"
+  },
+  {
+    "id": 33,
+    "text": "İyilik yolu açık eder.",
+    "meaning": "yardimseverlik insanı doğruya götürür.",
+    "value": "yardimseverlik"
+  },
+  {
+    "id": 34,
+    "text": "Paylaşmak insanı insan yapar.",
+    "meaning": "yardimseverlik insanlığın gereğidir.",
+    "value": "yardimseverlik"
+  },
+  {
+    "id": 35,
+    "text": "Darda kalanın dostu belli olur.",
+    "meaning": "Zor gün gerçek dostu gösterir.",
+    "value": "yardimseverlik"
+  },
+  {
+    "id": 36,
+    "text": "Nerede birlik, orada dirlik.",
+    "meaning": "Birlik olan yerde huzur ve düzen olur.",
+    "value": "yardimseverlik"
+  },
+  {
+    "id": 37,
+    "text": "Birlikte hareket eden yol alır.",
+    "meaning": "Yardımlaşanlar hedefe ulaşır.",
+    "value": "yardimseverlik"
+  },
+  {
+    "id": 38,
+    "text": "Yardım eli uzatmak insanlıktır.",
+    "meaning": "Yardım etmek insan olmanın gereğidir.",
+    "value": "yardimseverlik"
+  },
+  {
+    "id": 39,
+    "text": "Paylaşmak dostluğu artırır.",
+    "meaning": "Yardımlaşma insanları yakınlaştırır.",
+    "value": "yardimseverlik"
+  },
+  {
+    "id": 40,
+    "text": "İyilik kalpten kalbe gider.",
+    "meaning": "İyilik insanlar arasında bağ kurar.",
+    "value": "yardimseverlik"
+  },
+  {
+    "id": 41,
+    "text": "Komşu komşuya destek olur.",
+    "meaning": "Yakın çevrede yardımlaşma önemlidir.",
+    "value": "yardimseverlik"
+  },
+  {
+    "id": 42,
+    "text": "İyilik eden zarar görmez.",
+    "meaning": "yardimseverlik olumlu sonuç verir.",
+    "value": "yardimseverlik"
+  },
+  {
+    "id": 43,
+    "text": "Birlikte iş gören yorulmaz.",
+    "meaning": "Yardımlaşma yükü azaltır.",
+    "value": "yardimseverlik"
+  },
+  {
+    "id": 44,
+    "text": "Paylaşan el boş kalmaz.",
+    "meaning": "Yardım eden karşılığını görür.",
+    "value": "yardimseverlik"
+  },
+  {
+    "id": 45,
+    "text": "Yardım edilen el dua eder.",
+    "meaning": "Yardım gören minnet duyar.",
+    "value": "yardimseverlik"
+  },
+  {
+    "id": 46,
+    "text": "İyilik kapısı kapanmaz.",
+    "meaning": "İyilik her zaman karşılık bulur.",
+    "value": "yardimseverlik"
+  },
+  {
+    "id": 47,
+    "text": "Birlik ruhu başarı getirir.",
+    "meaning": "Yardımlaşma başarıyı artırır.",
+    "value": "yardimseverlik"
+  },
+  {
+    "id": 48,
+    "text": "Paylaşmak sevgiyi çoğaltır.",
+    "meaning": "Yardımlaşma sevgiyi büyütür.",
+    "value": "yardimseverlik"
+  },
+  {
+    "id": 49,
+    "text": "İyilik yapan unutulmaz.",
+    "meaning": "Yardım eden daima hatırlanır.",
+    "value": "yardimseverlik"
+  },
+  {
+    "id": 50,
+    "text": "Yardımlaşan toplum güçlü olur.",
+    "meaning": "Dayanışma toplumu ayakta tutar.",
+    "value": "yardimseverlik"
+  }
+]

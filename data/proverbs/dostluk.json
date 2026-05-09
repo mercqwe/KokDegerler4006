@@ -1,0 +1,206 @@
+[
+  {
+    "id": 1,
+    "text": "Dostluk başka, alışveriş başka.",
+    "meaning": "İki kişi arasındaki dostluk, alışverişte birinin ötekine özverili davranmasını gerektirmez.",
+    "value": "dostluk"
+  },
+  {
+    "id": 2,
+    "text": "Dostluk kantarla, alışveriş (hesap) miskalle.",
+    "meaning": "İş ilişkilerine dostluk karıştırılmamalıdır.",
+    "value": "dostluk"
+  },
+  {
+    "id": 3,
+    "text": "Dostluk okkayla, alışveriş dirhemle.",
+    "meaning": "Dostluğun tartısı olmaz, alışveriş ise ölçüye göre olur.",
+    "value": "dostluk"
+  },
+  {
+    "id": 4,
+    "text": "Akıllı düşman akılsız dosttan hayırlıdır.",
+    "meaning": "Akılsız kimse iyi niyetli olsa dahi yaptığı işin ne gibi kötü sonuçlar doğuracağını hesap edemediğinden dostuna bilmeyerek fenalık edebilir, akıllı düşmanın yapacağı kötülükse akıl yoluyla sezilir ve gereken tedbir alınabilir.",
+    "value": "dostluk"
+  },
+  {
+    "id": 5,
+    "text": "Akil isen açma sırrın dostuna, çünkü dostun dostu vardır, o da söyler dostuna.",
+    "meaning": "Bir sır en yakın dosta bile söylenmemelidir.",
+    "value": "dostluk"
+  },
+  {
+    "id": 6,
+    "text": "Bin dost az, bir düşman çok.",
+    "meaning": "Dostun ne denli çok olursa olsun onlardan zarar gelmez ama bir tek düşmanın olsa hep zarar görme tehlikesi içerisinde yaşarsın.",
+    "value": "dostluk"
+  },
+  {
+    "id": 7,
+    "text": "Cahilin dostluğundan arifin düşmanlığı yeğdir.",
+    "meaning": "Akılsız kimse iyi niyetli olsa dahi yaptığı işin ne gibi kötü sonuçlar doğuracağını hesap edemediğinden dostuna bilmeyerek fenalık edebilir, akıllı düşmanın yapacağı kötülükse akıl yoluyla sezilir ve gereken tedbir alınabilir.",
+    "value": "dostluk"
+  },
+  {
+    "id": 8,
+    "text": "Deli dostun olacağına akıllı düşmanın olsun.",
+    "meaning": "Akılsız kimse iyi niyetli olsa dahi yaptığı işin ne gibi kötü sonuçlar doğuracağını hesap edemediğinden dostuna bilmeyerek fenalık edebilir, akıllı düşmanın yapacağı kötülükse akıl yoluyla sezilir ve gereken tedbir alınabilir.",
+    "value": "dostluk"
+  },
+  {
+    "id": 9,
+    "text": "Domuz derisi post olmaz, eski düşman dost olmaz.",
+    "meaning": "Birçok nedenin birbirini izlemesiyle sürüp gelmiş olan eski düşmanlık, dostluğa dönüştürülemez.",
+    "value": "dostluk"
+  },
+  {
+    "id": 10,
+    "text": "Dost acı söyler.",
+    "meaning": "Yakınlarımız, eksikliklerimizi çekinmeden söylerler.",
+    "value": "dostluk"
+  },
+  {
+    "id": 11,
+    "text": "Dost ağlatır, düşman güldürür.",
+    "meaning": "Dost olan kimsenin söylediği söz, acı da olsa insanın iyiliği içindir.",
+    "value": "dostluk"
+  },
+  {
+    "id": 12,
+    "text": "Dost (akraba) ile ye, iç, alışveriş etme.",
+    "meaning": "Alışverişte iki taraf da kendi çıkarını düşündüğünden iki dost arasındaki alışveriş dostluğu bozabilir, bu nedenle de dostluklarını sürdürmek isteyenler birbirleriyle alışverişte bulunmamalıdırlar.",
+    "value": "dostluk"
+  },
+  {
+    "id": 13,
+    "text": "Dost bin ise azdır, düşman bir ise çoktur.",
+    "meaning": "Dostlarını olabildiğince çoğalt, düşmanlarını olabildiğince azalt.",
+    "value": "dostluk"
+  },
+  {
+    "id": 14,
+    "text": "Dost dostun ayıbını yüzüne söyler.",
+    "meaning": "Gerçek dost uyarmak, kusurun düzeltilmesini sağlamak amacıyla ayıbı yüze karşı söyler.",
+    "value": "dostluk"
+  },
+  {
+    "id": 15,
+    "text": "Dost dostun eyerlenmiş atıdır.",
+    "meaning": "Gerçek dost, arkadaşının sıkışık zamanında yardımına koşmaya hazır durumdadır.",
+    "value": "dostluk"
+  },
+  {
+    "id": 16,
+    "text": "Dost (iyi dost) kara günde belli olur.",
+    "meaning": "Gerçek dost üzüntülü, sıkıntılı günlerde insanı yalnız bırakmaz.",
+    "value": "dostluk"
+  },
+  {
+    "id": 17,
+    "text": "Dost sözü acıdır.",
+    "meaning": "Yakınlarımız, eksikliklerimizi çekinmeden söylerler.",
+    "value": "dostluk"
+  },
+  {
+    "id": 18,
+    "text": "Dostun attığı taş baş yarmaz.",
+    "meaning": "Dostun acı sözü veya sert davranışı insana ağır gelmez.",
+    "value": "dostluk"
+  },
+  {
+    "id": 19,
+    "text": "Eski düşman dost olmaz.",
+    "meaning": "Birçok nedenin birbirini izlemesiyle sürüp gelmiş olan eski düşmanlık, dostluğa dönüştürülemez.",
+    "value": "dostluk"
+  },
+  {
+    "id": 20,
+    "text": "Güvenme (inanma) dostuna, saman doldurur postuna.",
+    "meaning": "Dost sandığın birtakım kimseler sana kolaylıkla kötülük edebilirler.",
+    "value": "dostluk"
+  },
+  {
+    "id": 21,
+    "text": "Her şeyin yenisi, dostun eskisi.",
+    "meaning": "Dostluk eskidikçe güç ve değer kazanır.",
+    "value": "dostluk"
+  },
+  {
+    "id": 22,
+    "text": "Kazanırsan dost kazan, düşmanı anan da doğurur.",
+    "meaning": "Sen dost kazanmanın yoluna bak, düşman kolay kazanılır.",
+    "value": "dostluk"
+  },
+  {
+    "id": 23,
+    "text": "Kusursuz dost arayan dostsuz kalır.",
+    "meaning": "Kusursuz kişi olmadığından, kendisine kusursuz bir dost arayan kimse aradığını bulamaz, dostsuz kalır.",
+    "value": "dostluk"
+  },
+  {
+    "id": 24,
+    "text": "Parayla dost bulunmaz.",
+    "meaning": "Para kazanmayı bildiği hâlde dost kazanmayı bilmediği için sevilmeyen, sayılmayan nice insan vardır.",
+    "value": "dostluk"
+  },
+  {
+    "id": 25,
+    "text": "Sadık dost akrabadan yeğdir.",
+    "meaning": "Candan dost akrabadan daha hayırlı olur.",
+    "value": "dostluk"
+  },
+  {
+    "id": 26,
+    "text": "Sen dost kazan, düşman ocağın başından çıkar.",
+    "meaning": "Sen dost kazanmanın yoluna bak, düşman kolay kazanılır.",
+    "value": "dostluk"
+  },
+  {
+    "id": 27,
+    "text": "Şeytanın dostluğu darağacına kadardır.",
+    "meaning": "Kötü arkadaş kişiyi yoldan çıkartıp ölüme kadar sürükleyebilir ama ölümün eşiğinde onu kaderiyle baş başa bırakır.",
+    "value": "dostluk"
+  },
+  {
+    "id": 28,
+    "text": "Yakın (hayırlı) dost (komşu) uzak (hayırsız) hısımdan (akrabadan) yeğdir (iyidir).",
+    "meaning": "İlgi ve iyiliklerini görmekte olduğumuz komşu ve dostlarımız, hiçbir ilgisini görmediğimiz hısımlarımızdan bize daha yakındır.",
+    "value": "dostluk"
+  },
+  {
+    "id": 29,
+    "text": "Yeni dosttan vefa gelmez.",
+    "meaning": "Aralarında ufak tefek dargınlıklar olsa bile eski dostlar birbirlerine düşman olmazlar, yeni kazanılan dostlarla arada henüz sıkı bir bağ oluşmadığı için bu durum söz konusu değildir.",
+    "value": "dostluk"
+  },
+  {
+    "id": 30,
+    "text": "Sürüden ayrılanı (ayrılan koyunu, kuzuyu) kurt kapar.",
+    "meaning": "Arkadaşların yardımıyla yapılan veya bir amaç uğruna topluca girişilen bir işten ayrılanlar zarara uğrarlar.",
+    "value": "dostluk"
+  },
+  {
+    "id": 31,
+    "text": "Can canın yoldaşıdır.",
+    "meaning": "İnsan tek başına yaşayamaz, konuşup görüşmek için arkadaş arar.",
+    "value": "dostluk"
+  },
+  {
+    "id": 32,
+    "text": "Ata dostu oğla mirastır.",
+    "meaning": "Baba dostları, babamızdan bize kalan miras gibidirler, bizi kollarlar ve bize her türlü yardımı yaparlar.",
+    "value": "dostluk"
+  },
+  {
+    "id": 33,
+    "text": "Üzüm üzüme baka baka kararır.",
+    "meaning": "Her zaman bir arada bulunan, arkadaşlık eden kimseler birbirlerine huy aşılarlar.",
+    "value": "dostluk"
+  },
+  {
+    "id": 34,
+    "text": "Eski dost düşman olmaz, yenisinden vefa gelmez.",
+    "meaning": "Aralarında ufak tefek dargınlıklar olsa bile eski dostlar birbirlerine düşman olmazlar, yeni kazanılan dostlarla arada henüz sıkı bir bağ oluşmadığı için bu durum söz konusu değildir.",
+    "value": "dostluk"
+  }
+]

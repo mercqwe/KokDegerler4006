@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "text": "Bülbülü altın kafese koymuşlar, 'ah vatanım' demiş.",
+    "meaning": "Kişi, başka yerlerde ne kadar rahat ve mutlu olursa olsun yine de kendi yurdunu özler.",
+    "value": "vatanseverlik"
+  },
+  {
+    "id": 2,
+    "text": "Ana gibi yar olmaz, Bağdat gibi diyar olmaz.",
+    "meaning": "İnsanlar içinde bize anne kadar candan bağlı dost yoktur.",
+    "value": "vatanseverlik"
+  },
+  {
+    "id": 3,
+    "text": "Yiğit lakabıyla anılır.",
+    "meaning": "Yiğit kazandığı ünle tanınır.",
+    "value": "vatanseverlik"
+  },
+  {
+    "id": 4,
+    "text": "Yurdun otlusu kutlusundan yeğdir.",
+    "meaning": "İnsanın üzerinde yaşadığı yer, rahat ve huzurlu olmadıktan sonra oranın verimli olması çok önemli değildir.",
+    "value": "vatanseverlik"
+  },
+  {
+    "id": 5,
+    "text": "Yad elde beylik sürmeden, yurtta züğürt gezme yeğdir.",
+    "meaning": "Gurbete düşmüş bir insan, ne denli varlık içinde bir yaşam sürüyor olsa da doğup büyüdüğü yeri arar.",
+    "value": "vatanseverlik"
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "id": 1,
+    "text": "Açık yaraya tuz ekilmez.",
+    "meaning": "Acısı henüz taze olan bir kimsenin üzüntüsü, birtakım söz ve davranışlarla artırılmamalıdır.",
+    "value": "durustluk"
+  },
+  {
+    "id": 2,
+    "text": "Adamın iyisi işbaşında (alışverişte) belli olur.",
+    "meaning": "Bir kişinin iyi ve becerikli olduğu yaptığı işlerden anlaşılır.",
+    "value": "durustluk"
+  },
+  {
+    "id": 3,
+    "text": "Ak akçe kara gün içindir.",
+    "meaning": "Çalışarak kazandığımız para, dar zamanımızda bizi sıkıntıdan kurtarır.",
+    "value": "durustluk"
+  },
+  {
+    "id": 4,
+    "text": "Bilmemek ayıp değil, öğrenmemek (sormamak) ayıp.",
+    "meaning": "İnsanın her şeyi bilmemesi kusur değildir ama bilmediği bir işi sorup öğrenmeden yapmaya kalkışması kusurdur.",
+    "value": "durustluk"
+  },
+  {
+    "id": 5,
+    "text": "Can çıkmayınca (çıkmadan) huy çıkmaz.",
+    "meaning": "İnsanı alışkanlıklarından, huylarından vazgeçirmek mümkün değildir.",
+    "value": "durustluk"
+  },
+  {
+    "id": 6,
+    "text": "(Birine) çamur atmak (sıçratmak).",
+    "meaning": "Birini kötü bir işe karışmış göstermek, kara çalmak, iftira etmek.",
+    "value": "durustluk"
+  },
+  {
+    "id": 7,
+    "text": "Çiğ yemedim ki karnım ağrısın.",
+    "meaning": "Suç işlemedim ki korkayım.",
+    "value": "durustluk"
+  },
+  {
+    "id": 8,
+    "text": "Doğru söz acıdır.",
+    "meaning": "Eksikleri, yanlışları, yolsuzlukları bütün çıplaklığıyla ortaya koyan ve eleştiren söz, bu işi yapanlara acı gelir.",
+    "value": "durustluk"
+  },
+  {
+    "id": 9,
+    "text": "Doğru söyleyeni dokuz köyden kovarlar.",
+    "meaning": "Doğru olmakla birlikte başkalarının işine gelmeyen sözleri söyleyenlerin sevilmediğini anlatan bir söz.",
+    "value": "durustluk"
+  },
+  {
+    "id": 10,
+    "text": "Doğru söz yemin istemez.",
+    "meaning": "Sözün doğruluğunda kuşku yoksa yemine gerek yoktur.",
+    "value": "durustluk"
+  },
+  {
+    "id": 11,
+    "text": "Eğri oturup doğru konuşalım.",
+    "meaning": "Birisine karşı tutumumuz ne olursa olsun doğruyu söylemeliyiz.",
+    "value": "durustluk"
+  },
+  {
+    "id": 12,
+    "text": "El elin eşeğini türkü çağırarak arar.",
+    "meaning": "İnsanın kendi sıkıntı ve sorunlarına başkaları gereken önemi vermez, gerektiği kadar ilgilenmez.",
+    "value": "durustluk"
+  },
+  {
+    "id": 13,
+    "text": "Güneş balçıkla sıvanmaz.",
+    "meaning": "Herkesin bildiği gerçek inkâr edilemez.",
+    "value": "durustluk"
+  },
+  {
+    "id": 14,
+    "text": "Hak yerini bulur (yerde kalmaz).",
+    "meaning": "Haksızlık er geç ortaya çıkar.",
+    "value": "durustluk"
+  },
+  {
+    "id": 15,
+    "text": "İğneyi kendine, çuvaldızı başkasına batır.",
+    "meaning": "Başkasına zararı dokunacak bir davranışı yapmadan önce iyi düşün, kendi kendini eleştir.",
+    "value": "durustluk"
+  },
+  {
+    "id": 16,
+    "text": "Söz var iş bitirir, söz var baş yitirir.",
+    "meaning": "Sözün insanlar üzerinde etkisi büyüktür; yerinde söylenen sözler işlerin yoluna girmesini sağlar, ölçüsüz ve sert söylenen sözler ise karşıdakini öfkelendirir, söyleyenin öldürülmesine bile yol açabilir.",
+    "value": "durustluk"
+  },
+  {
+    "id": 17,
+    "text": "Söz gümüşse sükût altındır.",
+    "meaning": "Susmak bazen konuşmaktan daha iyi sonuç verir.",
+    "value": "durustluk"
+  },
+  {
+    "id": 18,
+    "text": "Tatlı dil yılanı deliğinden çıkarır.",
+    "meaning": "Gönül alıcı, okşayıcı sözlerle karşımızdakinin inadı yenilebilir.",
+    "value": "durustluk"
+  },
+  {
+    "id": 19,
+    "text": "Üzümünü ye de bağını sorma.",
+    "meaning": "Yararlandığın şeyin nereden geldiğini araştırma.",
+    "value": "durustluk"
+  },
+  {
+    "id": 20,
+    "text": "Yalancının mumu yatsıya kadar yanar.",
+    "meaning": "Söylenen söz yalansa durum çok geçmeden anlaşılır.",
+    "value": "durustluk"
+  },
+  {
+    "id": 21,
+    "text": "Doğruluk minarede kalmış.",
+    "meaning": "Doğru görünen nice kişiler vardır ki içyüzlerini bilenlerden nasıl düzenbaz oldukları öğrenilir.",
+    "value": "durustluk"
+  },
+  {
+    "id": 22,
+    "text": "Doğru söyleyenin bir ayağı üzengide gerek.",
+    "meaning": "Doğru sözlü olan kişi sevilmeyen, istenmeyen kişi olacağı için bulunduğu yerden ayrılmaya hazır olmalıdır.",
+    "value": "durustluk"
+  },
+  {
+    "id": 23,
+    "text": "Doğru söyleyenin tepesi delik olur.",
+    "meaning": "Sözüm bir kimseye dokunur mu diye düşünmeyerek doğruyu söyleyen kişi çok düşman kazanır.",
+    "value": "durustluk"
+  },
+  {
+    "id": 24,
+    "text": "Yalancının evi yanmış, kimse inanmamış.",
+    "meaning": "Yalan söylemeyi huy edinen kimsenin sözlerine, gerçeği söylediği zaman bile inanılmaz.",
+    "value": "durustluk"
+  },
+  {
+    "id": 25,
+    "text": "Ardıcın közü olmaz, yalancının sözü olmaz.",
+    "meaning": "Ardıç ağacının ateşi çabuk geçer, kül olur; yalancının sözü de böyledir, ona da güvenilmez.",
+    "value": "durustluk"
+  },
+  {
+    "id": 26,
+    "text": "Doğruluk minarede kalmış onun da içi eğri.",
+    "meaning": "Doğru görünen nice kişiler vardır ki içyüzlerini bilenlerden nasıl düzenbaz oldukları öğrenilir.",
+    "value": "durustluk"
+  },
+  {
+    "id": 27,
+    "text": "Ramazan'da yalan söyleyenin (oruç yiyenin) bayramda yüzü kara olsun.",
+    "meaning": "Bir sözün yalan olduğu, bir ödevin yapılmadığı bir süre sonra gerçekleşen olaylarla anlaşılır.",
+    "value": "durustluk"
+  },
+  {
+    "id": 28,
+    "text": "Arife günü yalan söyleyenin (oruç yiyenin) bayram günü yüzü kara çıkar (olur).",
+    "meaning": "Bir sözün yalan olduğu çabuk anlaşılır ve söyleyen toplum içinde utanılacak bir duruma düşer.",
+    "value": "durustluk"
+  },
+  {
+    "id": 29,
+    "text": "Doğrunun yardımcısı Allah'tır.",
+    "meaning": "İşlerinde doğruluktan ayrılmayan kişiye Tanrı her zaman yardım eder.",
+    "value": "durustluk"
+  },
+  {
+    "id": 30,
+    "text": "Eğriye eğri doğruya doğru.",
+    "meaning": "Gerçek neyse aynen belirtilmelidir.",
+    "value": "durustluk"
+  },
+  {
+    "id": 31,
+    "text": "Tutulmayan uğru, beyden doğru.",
+    "meaning": "Suçu ispatlanamayan, yakayı ele vermeyen hırsız, böyle bir suç işlemesi düşünülmeyen kimselerle durustluk yarışı içinde olabilir.",
+    "value": "durustluk"
+  },
+  {
+    "id": 32,
+    "text": "Doğru bilinmeyince eğri bilinmez.",
+    "meaning": "Doğru ile yanlışı, iyiyle kötüyü birbirinden ayırmak için her ikisini de bilmek, tanımak gerekir.",
+    "value": "durustluk"
+  },
+  {
+    "id": 33,
+    "text": "Eski dost düşman olmaz, olsa da dürüst olmaz.",
+    "meaning": "Aralarında ufak tefek dargınlıklar olsa bile eski dostlar birbirlerine düşman olmazlar, yeni kazanılan dostlarla arada henüz sıkı bir bağ oluşmadığı için bu durum söz konusu değildir.",
+    "value": "durustluk"
+  }
+]
