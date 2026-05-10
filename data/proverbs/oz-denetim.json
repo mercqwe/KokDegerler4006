@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "id": 1,
+    "text": "Dilin kemiği yok.",
+    "meaning": "İnsan doğru veya yanlış her şeyi söyleyebilir.",
+    "value": "oz-denetim"
+  },
+  {
+    "id": 2,
+    "text": "Keskin sirke küpüne (kabına) zarar.",
+    "meaning": "Öfkeli, sert kimsenin zararı kendisinedir.",
+    "value": "oz-denetim"
+  },
+  {
+    "id": 3,
+    "text": "Akıllı köprü arayıncaya dek deli suyu geçer.",
+    "meaning": "Atak kişi tehlikeyi göze alarak işe girişir ve çabuk sonuç alır.",
+    "value": "oz-denetim"
+  },
+  {
+    "id": 4,
+    "text": "Tatlı dil yılanı deliğinden çıkarır.",
+    "meaning": "Gönül alıcı, okşayıcı sözlerle karşımızdakinin inadı yenilebilir.",
+    "value": "oz-denetim"
+  },
+  {
+    "id": 5,
+    "text": "Sabrın sonu selamettir.",
+    "meaning": "Karşılaştığı güçlükleri sabırla yenmeye çalışan kimse, sonunda başarıya ulaşır.",
+    "value": "oz-denetim"
+  },
+  {
+    "id": 6,
+    "text": "Dilini tutamamak.",
+    "meaning": "Sonunu düşünmeden gelişigüzel konuşmak.",
+    "value": "oz-denetim"
+  },
+  {
+    "id": 7,
+    "text": "Sabır acıdır, meyvesi tatlıdır.",
+    "meaning": "Sabır zor bir iştir ancak güzel sonuçları vardır.",
+    "value": "oz-denetim"
+  },
+  {
+    "id": 8,
+    "text": "Ağır otur ki bey desinler.",
+    "meaning": "Ağırbaşlı ol ki büyüğümüz diye sana saygı göstersinler.",
+    "value": "oz-denetim"
+  },
+  {
+    "id": 9,
+    "text": "Sabreden derviş muradına ermiş.",
+    "meaning": "Beklemesini bilen kimse sonunda amacına ulaşır.",
+    "value": "oz-denetim"
+  },
+  {
+    "id": 10,
+    "text": "Sabırla koruk helva olur, dut yaprağı atlas.",
+    "meaning": "Sabretmesini bilen kişi olmayacak gibi görünen işlerde bile başarı kazanır.",
+    "value": "oz-denetim"
+  }
+]

@@ -22,10 +22,15 @@ export type RootValue =
   | "vatanseverlik"
   | "yardimseverlik";
 
+export interface DescriptionItem {
+  text: string;
+  example?: string;
+}
+
 export interface RootValueInfo {
   id: RootValue;
   label: string;
-  descriptions: string[];
+  descriptions: DescriptionItem[];
   color: string;
   icon: string; // Lucide icon name as string
 }
@@ -34,70 +39,98 @@ export const rootValues: RootValueInfo[] = [
   {
     id: "adalet",
     label: "Adalet",
-    descriptions: ["Hak ve hukuka uygunluk, hakkı gözetme.", "Yasalarla sahip olunan hakların herkes tarafından kullanılmasının sağlanması; türe.", "Bu işi uygulayan, yerine getiren devlet kuruluşları.","Herkese kendine uygun düşeni, kendi hakkı olanı verme."],
+    descriptions: [
+      { text: "Hak ve hukuka uygunluk, hakkı gözetme.", example: "'Hiçbir kuvvet beni adaletin tecellisi için çalışmaktan menedemeyecektir.' - Nâzım Hikmet" },
+      { text: "Yasalarla sahip olunan hakların herkes tarafından kullanılmasının sağlanması; türe." },
+      { text: "Bu işi uygulayan, yerine getiren devlet kuruluşları.", example: "Suçlular adaletin pençesinden kurtulamazlar." },
+      { text: "Herkese kendine uygun düşeni, kendi hakkı olanı verme.",example: "'Germiyan'da Süleyman Şah'ımız adaletle hüküm sürer.' - Feridun Fazıl Tülbentçi" }
+    ],
     color: "bg-rose-500",
     icon: "Scale",
   },
   {
     id: "dostluk",
     label: "Dostluk",
-    descriptions: ["Dost olma durumu; mihribanlık, ülfet.", "Dostça davranış."],
+    descriptions: [
+      { text: "Dost olma durumu; mihribanlık, ülfet." },
+      { text: "Dostça davranış.", example: "'Karşılıklı ödünler vererek hoşgörü havası içinde dostluklarını sürdürüyorlardı.' - Hıfzı Topuz" }
+    ],
     color: "bg-amber-500",
     icon: "Users",
   },
   {
     id: "durustluk",
     label: "Dürüstlük",
-    descriptions: ["Doğruluk."],
+    descriptions: [
+      { text: "Doğruluk."}
+    ],
     color: "bg-violet-500",
     icon: "Shield",
   },
   {
     id: "oz-denetim",
     label: "Öz Denetim",
-    descriptions: ["Daha önemli bir amaca ulaşabilmek için kişinin tepkilerini, davranışlarını veya başka amaca yönelme eğilimini denetleyip kısıtlaması; otokontrol.","Bir kurum veya kuruluşun işleyişini, amacına ve standartlara göre kendisinin kontrol etmesi."],
+    descriptions: [
+      { text: "Daha önemli bir amaca ulaşabilmek için kişinin tepkilerini, davranışlarını veya başka amaca yönelme eğilimini denetleyip kısıtlaması; otokontrol.", example: "'Disiplin, kendini sınırlama, öz denetim, ozan için özgürlük kadar gerekli değil midir?' - Ahmet Turan Oflazoğlu" },
+      { text: "Bir kurum veya kuruluşun işleyişini, amacına ve standartlara göre kendisinin kontrol etmesi.", example: "'Bu denetim türü, yayıncıların, yayın kuruluşlarının yayınlarını yaparken denetimlerini kendilerinin yapmalarıdır.' - Aziz Nesin" }
+    ],
     color: "bg-fuchsia-500",
     icon: "Brain",
   },
   {
     id: "sabir",
     label: "Sabır",
-    descriptions: ["Acı, yoksulluk, haksızlık vb. üzücü durumlar karşısında ses çıkarmadan onların geçmesini bekleme erdemi; dayanç, çıdam.", "Olacak veya gelecek bir şeyi telaş göstermeden bekleme."],
+    descriptions: [
+      { text: "Acı, yoksulluk, haksızlık vb. üzücü durumlar karşısında ses çıkarmadan onların geçmesini bekleme erdemi; dayanç, çıdam.", example: "'Annem pek yorgun bir saatinde değilse bu tutturmalarıma sabır gösterirdi.' - Adalet Ağaoğlu" },
+      { text: "Olacak veya gelecek bir şeyi telaş göstermeden bekleme." }
+    ],
     color: "bg-teal-500",
     icon: "Clock",
   },
   {
     id: "saygi",
     label: "Saygı",
-    descriptions: ["Değeri, üstünlüğü, yaşlılığı, yararlılığı, kutsallığı dolayısıyla bir kimseye, bir şeye karşı dikkatli, özenli, ölçülü davranmaya sebep olan sevgi duygusu; hürmet, ihtiram.", "Başkalarını rahatsız etmekten çekinme duygusu."],
+    descriptions: [
+      { text: "Değeri, üstünlüğü, yaşlılığı, yararlılığı, kutsallığı dolayısıyla bir kimseye, bir şeye karşı dikkatli, özenli, ölçülü davranmaya sebep olan sevgi duygusu; hürmet, ihtiram.", example: "'İnsanlara saygıyı yitirdin mi yandın bittin, on paralık oldun demektir.' - Yaşar Kemal" },
+      { text: "Başkalarını rahatsız etmekten çekinme duygusu." }
+    ],
     color: "bg-sky-500",
     icon: "Heart",
   },
   {
     id: "sevgi",
     label: "Sevgi",
-    descriptions: ["İnsanı bir şeye veya bir kimseye karşı yakın ilgi ve bağlılık göstermeye yönelten duygu; muhabbet."],
+    descriptions: [
+      { text: "İnsanı bir şeye veya bir kimseye karşı yakın ilgi ve bağlılık göstermeye yönelten duygu; muhabbet." }
+    ],
     color: "bg-pink-500",
     icon: "HeartHandshake",
   },
   {
     id: "sorumluluk",
     label: "Sorumluluk",
-    descriptions: ["Kişinin kendi davranışlarını veya kendi yetki alanına giren herhangi bir olayın sonuçlarını üstlenmesi; sorum, mesuliyet, uhde.", "Sorumlu olmayı gerektiren bir yükümlülüğün kendisi; ağırlık."],
+    descriptions: [
+      { text: "Kişinin kendi davranışlarını veya kendi yetki alanına giren herhangi bir olayın sonuçlarını üstlenmesi; sorum, mesuliyet, uhde.", example: "'Babam bütün sorumluluğu üzerine aldı.' - Mahmut Yesari" },
+      { text: "Sorumlu olmayı gerektiren bir yükümlülüğün kendisi; ağırlık." }
+    ],
     color: "bg-indigo-500",
     icon: "Target",
   },
   {
     id: "vatanseverlik",
     label: "Vatanseverlik",
-    descriptions: ["Yurtseverlik."],
+    descriptions: [
+      { text: "Yurtseverlik.", example: "'Vatanseverlik, doğduğu yeri, evini, köyünü, müstakil devlet sınırları içinde memleketini sevmektir.' - Orhan Seyfi Orhon" }
+    ],
     color: "bg-red-500",
     icon: "Flag",
   },
   {
     id: "yardimseverlik",
     label: "Yardımseverlik",
-    descriptions: ["Hayırseverlik."],
+    descriptions: [
+      { text: "Hayırseverlik.", example:"'Sevimliliğinden, yardımseverliğinden hiçbir şey yitirmemişti.' - Ayla Kutlu" }
+    ],
     color: "bg-emerald-500",
     icon: "HandHeart",
   },

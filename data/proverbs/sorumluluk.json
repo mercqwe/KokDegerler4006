@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "id": 1,
+    "text": "Her koyun kendi bacağından asılır.",
+    "meaning": "Herkes kendi davranışından sorumludur ve onun cezasını kendisi çeker.",
+    "value": "sorumluluk"
+  },
+  {
+    "id": 2,
+    "text": "Büyük başın derdi büyük olur.",
+    "meaning": "Büyük işlerin başında bulunanların karşılaşacağı güçlükler de çoktur.",
+    "value": "sorumluluk"
+  },
+  {
+    "id": 3,
+    "text": "Davul birinin boynunda, tokmak bir başkasının elinde.",
+    "meaning": "Sorumluluk birinde olmasına karşın bir başkasının sözü geçiyor.",
+    "value": "sorumluluk"
+  },
+  {
+    "id": 4,
+    "text": "Ayağını yorganına göre uzat.",
+    "meaning": "Giderini mutlaka gelirine uydurmalısın.",
+    "value": "sorumluluk"
+  },
+  {
+    "id": 5,
+    "text": "Erim er olsun da yerim çalı dibi olsun.",
+    "meaning": "Kadının kocasının fakir olması önemli değildir, yeter ki aile sorumluluklarını yerine getirsin.",
+    "value": "sorumluluk"
+  },
+  {
+    "id": 6,
+    "text": "Ismarlama hac, hac olmaz.",
+    "meaning": "Kişi, kendisi yapması gereken bir işi başkasına yaptırmamalıdır.",
+    "value": "sorumluluk"
+  },
+  {
+    "id": 7,
+    "text": "Yük altında (yüklü) eşek anırmaz.",
+    "meaning": "Ağır bir iş altında bunalmış olan kişi bu durumdan kurtulmadan rahatlayamaz, keyifli bir duruma gelemez.",
+    "value": "sorumluluk"
+  },
+  {
+    "id": 8,
+    "text": "Ne ekersen onu biçersin.",
+    "meaning": "Nasıl davranırsan öyle karşılık görürsün.",
+    "value": "sorumluluk"
+  },
+  {
+    "id": 9,
+    "text": "Emanete hıyanet olmaz.",
+    "meaning": "Emanet olarak bırakılan şeyi titizlikle korumak gereklidir.",
+    "value": "sorumluluk"
+  },
+  {
+    "id": 10,
+    "text": "Suç samur kürk olsa kimse üstüne almaz.",
+    "meaning": "Hiç kimse suçlu olduğunu kabul etmek istemez.",
+    "value": "sorumluluk"
+  }
+]
