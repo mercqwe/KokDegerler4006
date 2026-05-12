@@ -9,6 +9,7 @@ import sevgiData from "@/data/proverbs/sevgi.json";
 import sorumlulukData from "@/data/proverbs/sorumluluk.json";
 import vatanseverlikData from "@/data/proverbs/vatanseverlik.json";
 import yardimseverlikData from "@/data/proverbs/yardimseverlik.json";
+import { Description } from "@radix-ui/react-toast";
 
 export type RootValue =
   | "adalet"
@@ -160,15 +161,21 @@ export const proverbs: Record<RootValue, Proverb[]> = {
 export const games = [
   {
     id: 1,
-    title: "Atasözü Eşleştirme",
-    description: "Atasözlerini anlamlarıyla eşleştirin.",
-    link: "#",
+    title: "Atasözü ve Kök Değerler Testi",
+    description: "",
+    link: "https://wordwall.net/tr/resource/113127831/atas%C3%B6z%C3%BC-ve-k%C3%B6k-de%C4%9Ferler-test",
   },
   {
     id: 2,
-    title: "Kök Değer Bulmaca",
-    description: "Atasözlerindeki kök değerleri bulun.",
-    link: "#",
+    title: "Atasözü Tamamlama",
+    description: "",
+    link: "https://wordwall.net/tr/resource/113123817/atas%C3%B6zlerini-tamamlama",
+  },
+  {
+    id: 3,
+    title: "Atasözlerini Kelimelerle Oluşturma",
+    description: "",
+    link: "https://wordwall.net/tr/resource/113124014/tde/atas%C3%B6zlerini-kelimelerine-g%C3%B6re-s%C4%B1raya-koyma-oyunu"
   }
 ];
 
